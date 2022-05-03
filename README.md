@@ -6,7 +6,7 @@
 Clone repo
 
 ```
-git clone https://github.com/satendra02/react-chrome-extension.git
+git clone https://github.com/Sujidra/react-chrome-sample-extension.git
 ```
 Go to `react-chrome-sample-extension` directory run
 
